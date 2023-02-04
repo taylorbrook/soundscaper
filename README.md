@@ -3,8 +3,8 @@
 https://www.taylorbrook.info/soundscaper
 
 Dependencies:
-MAX 8.5 or newer
-flucoma 1.0 (https://www.flucoma.org/download/)
+MAX 8.5 or newer <br>
+flucoma 1.0 (https://www.flucoma.org/download/)<br>
 audio files downloadable here: https://www.dropbox.com/s/fm08nwxull8c3cb/soundscaper_audio.zip?dl=1
 
 Creator: Taylor Brook
