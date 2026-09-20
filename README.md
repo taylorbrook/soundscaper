@@ -4,8 +4,7 @@ https://www.taylorbrook.info/soundscaper
 
 Dependencies:
 MAX 9.2 or newer <br>
-Fluid Corpus Manipulation MAX package (flucoma) (https://www.flucoma.org)<br>
-audio files downloadable here: https://www.dropbox.com/s/fm08nwxull8c3cb/soundscaper_audio.zip?dl=1
+Fluid Corpus Manipulation MAX package (flucoma), obtained using the MAX package manager (file->show package manager->use search) (https://www.flucoma.org)<br>
 
 Creator: Taylor Brook
 Extra special thanks to Ted Moore
